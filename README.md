@@ -1,5 +1,5 @@
 # Titanic-Survival-Predictor
-In this project I analyzed and predicted whether a person, who had boarded the Titanic has a chance of survival or not, using Data Analatics Techniques.
+In this project I analyzed and predicted whether a person, who had boarded the Titanic has a chance of survival or not, using Data  Analytics Techniques.
 
 Description:
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
