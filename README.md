@@ -1,5 +1,6 @@
 # Titanic-Survival-Predictor
 In this project I analyzed and predicted whether a person, who had boarded the Titanic has a chance of survival or not, using Data Analatics Techniques.
+
 Description:
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -13,6 +14,9 @@ Acknowledgements:
 This dataset has been referred from Kaggle: https://www.kaggle.com/c/titanic/data.
 
 Objective:
+
 Understand the Dataset & cleanup (if required).
+
 Build a strong classification model to predict whether the passenger survives or not.
+
 Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
